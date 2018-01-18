@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
         setContentView( R.layout.activity_main );
         //修改过后的代码
         Toast.makeText( this, "男神最爱小燕燕", Toast.LENGTH_SHORT ).show();
+        String str="aa";
     }
 }
