@@ -15,5 +15,7 @@ public class MainActivity extends AppCompatActivity {
         String str="aa";
         //第二次冲突
         String str1 = "楠神";
+        //第三次冲突
+        Log.e( "--------------","楠神最爱小燕燕" );
     }
 }
