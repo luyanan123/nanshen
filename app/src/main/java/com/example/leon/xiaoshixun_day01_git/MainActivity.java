@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         //修改过后的代码
         Toast.makeText( this, "男神最爱小燕燕", Toast.LENGTH_SHORT ).show();
         String str="aa";
+        //第二次冲突
+        String str1 = "楠神";
     }
 }
